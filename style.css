@@ -3,12 +3,12 @@
 nav {
     height: 50px;
     background-color: rgb(174, 94, 211);
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
     text-align: center;
     border-style: solid;
     border-color: purple;
-   align-items: center;
+    align-items: center;
    
 }
 
@@ -51,7 +51,6 @@ footer {
     background-color: rgb(240, 159, 233);
     border-style: solid;
     border-color: purple;
-
     padding: 20px;
     height: 20px;
 }
